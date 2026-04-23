@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "hq1",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Tokyo?",
+    "gold_answer": "Asia",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital city of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is a prominent country located in Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hq2",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Paris?",
+    "gold_answer": "Europe",
+    "context": [
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France."
+      },
+      {
+        "title": "France",
+        "text": "France is a prominent country located in Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hq3",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Cairo?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital city of Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is a prominent country located in Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hq4",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Brasília?",
+    "gold_answer": "South America",
+    "context": [
+      {
+        "title": "Brasília",
+        "text": "Brasília is the capital city of Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is a prominent country located in South America."
+      }
+    ]
+  },
+  {
+    "qid": "hq5",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Ottawa?",
+    "gold_answer": "North America",
+    "context": [
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "Canada is a prominent country located in North America."
+      }
+    ]
+  },
+  {
+    "qid": "hq6",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Canberra?",
+    "gold_answer": "Oceania",
+    "context": [
+      {
+        "title": "Canberra",
+        "text": "Canberra is the capital city of Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is a prominent country located in Oceania."
+      }
+    ]
+  },
+  {
+    "qid": "hq7",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Berlin?",
+    "gold_answer": "Europe",
+    "context": [
+      {
+        "title": "Berlin",
+        "text": "Berlin is the capital city of Germany."
+      },
+      {
+        "title": "Germany",
+        "text": "Germany is a prominent country located in Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hq8",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Beijing?",
+    "gold_answer": "Asia",
+    "context": [
+      {
+        "title": "Beijing",
+        "text": "Beijing is the capital city of China."
+      },
+      {
+        "title": "China",
+        "text": "China is a prominent country located in Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hq9",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Nairobi?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Nairobi",
+        "text": "Nairobi is the capital city of Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya is a prominent country located in Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hq10",
+    "difficulty": "easy",
+    "question": "Which continent contains the country whose capital is Bogotá?",
+    "gold_answer": "South America",
+    "context": [
+      {
+        "title": "Bogotá",
+        "text": "Bogotá is the capital city of Colombia."
+      },
+      {
+        "title": "Colombia",
+        "text": "Colombia is a prominent country located in South America."
+      }
+    ]
+  },
+  {
+    "qid": "hq11",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Osaka is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Osaka",
+        "text": "Osaka is a major city located in Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is a country with a coastline along the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hq12",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Marseille is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Marseille",
+        "text": "Marseille is a major city located in France."
+      },
+      {
+        "title": "France",
+        "text": "France is a country with a coastline along the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hq13",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Alexandria is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Alexandria",
+        "text": "Alexandria is a major city located in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is a country with a coastline along the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hq14",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Rio de Janeiro is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Rio de Janeiro",
+        "text": "Rio de Janeiro is a major city located in Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is a country with a coastline along the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hq15",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Vancouver is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Vancouver",
+        "text": "Vancouver is a major city located in Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "Canada is a country with a coastline along the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hq16",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Sydney is located?",
+    "gold_answer": "Tasman Sea",
+    "context": [
+      {
+        "title": "Sydney",
+        "text": "Sydney is a major city located in Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is a country with a coastline along the Tasman Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hq17",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Hamburg is located?",
+    "gold_answer": "North Sea",
+    "context": [
+      {
+        "title": "Hamburg",
+        "text": "Hamburg is a major city located in Germany."
+      },
+      {
+        "title": "Germany",
+        "text": "Germany is a country with a coastline along the North Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hq18",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Shanghai is located?",
+    "gold_answer": "East China Sea",
+    "context": [
+      {
+        "title": "Shanghai",
+        "text": "Shanghai is a major city located in China."
+      },
+      {
+        "title": "China",
+        "text": "China is a country with a coastline along the East China Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hq19",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Mombasa is located?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Mombasa",
+        "text": "Mombasa is a major city located in Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya is a country with a coastline along the Indian Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hq20",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where the city of Cartagena is located?",
+    "gold_answer": "Caribbean Sea",
+    "context": [
+      {
+        "title": "Cartagena",
+        "text": "Cartagena is a major city located in Colombia."
+      },
+      {
+        "title": "Colombia",
+        "text": "Colombia is a country with a coastline along the Caribbean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hq21",
+    "difficulty": "easy",
+    "question": "Which university did the author of Harry Potter attend?",
+    "gold_answer": "University of Exeter",
+    "context": [
+      {
+        "title": "Harry Potter",
+        "text": "Harry Potter is a famous work written by J.K. Rowling."
+      },
+      {
+        "title": "J.K. Rowling",
+        "text": "J.K. Rowling was a writer who attended University of Exeter."
+      }
+    ]
+  },
+  {
+    "qid": "hq22",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Shining attend?",
+    "gold_answer": "University of Maine",
+    "context": [
+      {
+        "title": "The Shining",
+        "text": "The Shining is a famous work written by Stephen King."
+      },
+      {
+        "title": "Stephen King",
+        "text": "Stephen King was a writer who attended University of Maine."
+      }
+    ]
+  },
+  {
+    "qid": "hq23",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Great Gatsby attend?",
+    "gold_answer": "Princeton University",
+    "context": [
+      {
+        "title": "The Great Gatsby",
+        "text": "The Great Gatsby is a famous work written by F. Scott Fitzgerald."
+      },
+      {
+        "title": "F. Scott Fitzgerald",
+        "text": "F. Scott Fitzgerald was a writer who attended Princeton University."
+      }
+    ]
+  },
+  {
+    "qid": "hq24",
+    "difficulty": "easy",
+    "question": "Which university did the author of 1984 attend?",
+    "gold_answer": "Eton College",
+    "context": [
+      {
+        "title": "1984",
+        "text": "1984 is a famous work written by George Orwell."
+      },
+      {
+        "title": "George Orwell",
+        "text": "George Orwell was a writer who attended Eton College."
+      }
+    ]
+  },
+  {
+    "qid": "hq25",
+    "difficulty": "easy",
+    "question": "Which university did the author of Mrs Dalloway attend?",
+    "gold_answer": "King's College London",
+    "context": [
+      {
+        "title": "Mrs Dalloway",
+        "text": "Mrs Dalloway is a famous work written by Virginia Woolf."
+      },
+      {
+        "title": "Virginia Woolf",
+        "text": "Virginia Woolf was a writer who attended King's College London."
+      }
+    ]
+  },
+  {
+    "qid": "hq26",
+    "difficulty": "easy",
+    "question": "Which university did the author of Sherlock Holmes attend?",
+    "gold_answer": "University of Edinburgh",
+    "context": [
+      {
+        "title": "Sherlock Holmes",
+        "text": "Sherlock Holmes is a famous work written by Arthur Conan Doyle."
+      },
+      {
+        "title": "Arthur Conan Doyle",
+        "text": "Arthur Conan Doyle was a writer who attended University of Edinburgh."
+      }
+    ]
+  },
+  {
+    "qid": "hq27",
+    "difficulty": "easy",
+    "question": "Which university did the author of Foundation attend?",
+    "gold_answer": "Columbia University",
+    "context": [
+      {
+        "title": "Foundation",
+        "text": "Foundation is a famous work written by Isaac Asimov."
+      },
+      {
+        "title": "Isaac Asimov",
+        "text": "Isaac Asimov was a writer who attended Columbia University."
+      }
+    ]
+  },
+  {
+    "qid": "hq28",
+    "difficulty": "easy",
+    "question": "Which university did the author of Beloved attend?",
+    "gold_answer": "Howard University",
+    "context": [
+      {
+        "title": "Beloved",
+        "text": "Beloved is a famous work written by Toni Morrison."
+      },
+      {
+        "title": "Toni Morrison",
+        "text": "Toni Morrison was a writer who attended Howard University."
+      }
+    ]
+  },
+  {
+    "qid": "hq29",
+    "difficulty": "easy",
+    "question": "Which university did the author of Norwegian Wood attend?",
+    "gold_answer": "Waseda University",
+    "context": [
+      {
+        "title": "Norwegian Wood",
+        "text": "Norwegian Wood is a famous work written by Haruki Murakami."
+      },
+      {
+        "title": "Haruki Murakami",
+        "text": "Haruki Murakami was a writer who attended Waseda University."
+      }
+    ]
+  },
+  {
+    "qid": "hq30",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Handmaid's Tale attend?",
+    "gold_answer": "University of Toronto",
+    "context": [
+      {
+        "title": "The Handmaid's Tale",
+        "text": "The Handmaid's Tale is a famous work written by Margaret Atwood."
+      },
+      {
+        "title": "Margaret Atwood",
+        "text": "Margaret Atwood was a writer who attended University of Toronto."
+      }
+    ]
+  },
+  {
+    "qid": "hq31",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the phonograph born?",
+    "gold_answer": "Milan, Ohio",
+    "context": [
+      {
+        "title": "phonograph",
+        "text": "The phonograph was famously invented by Thomas Edison."
+      },
+      {
+        "title": "Thomas Edison",
+        "text": "Thomas Edison was an inventor who was born in Milan, Ohio."
+      }
+    ]
+  },
+  {
+    "qid": "hq32",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the telephone born?",
+    "gold_answer": "Edinburgh",
+    "context": [
+      {
+        "title": "telephone",
+        "text": "The telephone was famously invented by Alexander Graham Bell."
+      },
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell was an inventor who was born in Edinburgh."
+      }
+    ]
+  },
+  {
+    "qid": "hq33",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the alternating current born?",
+    "gold_answer": "Smiljan",
+    "context": [
+      {
+        "title": "alternating current",
+        "text": "The alternating current was famously invented by Nikola Tesla."
+      },
+      {
+        "title": "Nikola Tesla",
+        "text": "Nikola Tesla was an inventor who was born in Smiljan."
+      }
+    ]
+  },
+  {
+    "qid": "hq34",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the radium born?",
+    "gold_answer": "Warsaw",
+    "context": [
+      {
+        "title": "radium",
+        "text": "The radium was famously invented by Marie Curie."
+      },
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was an inventor who was born in Warsaw."
+      }
+    ]
+  },
+  {
+    "qid": "hq35",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the printing press born?",
+    "gold_answer": "Mainz",
+    "context": [
+      {
+        "title": "printing press",
+        "text": "The printing press was famously invented by Johannes Gutenberg."
+      },
+      {
+        "title": "Johannes Gutenberg",
+        "text": "Johannes Gutenberg was an inventor who was born in Mainz."
+      }
+    ]
+  },
+  {
+    "qid": "hq36",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the World Wide Web born?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "World Wide Web",
+        "text": "The World Wide Web was famously invented by Tim Berners-Lee."
+      },
+      {
+        "title": "Tim Berners-Lee",
+        "text": "Tim Berners-Lee was an inventor who was born in London."
+      }
+    ]
+  },
+  {
+    "qid": "hq37",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the analytical engine born?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "analytical engine",
+        "text": "The analytical engine was famously invented by Charles Babbage."
+      },
+      {
+        "title": "Charles Babbage",
+        "text": "Charles Babbage was an inventor who was born in London."
+      }
+    ]
+  },
+  {
+    "qid": "hq38",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the first successful airplane born?",
+    "gold_answer": "Dayton, Ohio",
+    "context": [
+      {
+        "title": "first successful airplane",
+        "text": "The first successful airplane was famously invented by Orville Wright."
+      },
+      {
+        "title": "Orville Wright",
+        "text": "Orville Wright was an inventor who was born in Dayton, Ohio."
+      }
+    ]
+  },
+  {
+    "qid": "hq39",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the telegraph born?",
+    "gold_answer": "Charlestown, Massachusetts",
+    "context": [
+      {
+        "title": "telegraph",
+        "text": "The telegraph was famously invented by Samuel Morse."
+      },
+      {
+        "title": "Samuel Morse",
+        "text": "Samuel Morse was an inventor who was born in Charlestown, Massachusetts."
+      }
+    ]
+  },
+  {
+    "qid": "hq40",
+    "difficulty": "medium",
+    "question": "In what city was the inventor of the cotton gin born?",
+    "gold_answer": "Westborough, Massachusetts",
+    "context": [
+      {
+        "title": "cotton gin",
+        "text": "The cotton gin was famously invented by Eli Whitney."
+      },
+      {
+        "title": "Eli Whitney",
+        "text": "Eli Whitney was an inventor who was born in Westborough, Massachusetts."
+      }
+    ]
+  },
+  {
+    "qid": "hq41",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie Inception?",
+    "gold_answer": "British",
+    "context": [
+      {
+        "title": "Inception",
+        "text": "Inception is an acclaimed film directed by Christopher Nolan."
+      },
+      {
+        "title": "Christopher Nolan",
+        "text": "Christopher Nolan is a renowned British film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq42",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie Parasite?",
+    "gold_answer": "South Korean",
+    "context": [
+      {
+        "title": "Parasite",
+        "text": "Parasite is an acclaimed film directed by Bong Joon-ho."
+      },
+      {
+        "title": "Bong Joon-ho",
+        "text": "Bong Joon-ho is a renowned South Korean film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq43",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie Pulp Fiction?",
+    "gold_answer": "American",
+    "context": [
+      {
+        "title": "Pulp Fiction",
+        "text": "Pulp Fiction is an acclaimed film directed by Quentin Tarantino."
+      },
+      {
+        "title": "Quentin Tarantino",
+        "text": "Quentin Tarantino is a renowned American film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq44",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie Spirited Away?",
+    "gold_answer": "Japanese",
+    "context": [
+      {
+        "title": "Spirited Away",
+        "text": "Spirited Away is an acclaimed film directed by Hayao Miyazaki."
+      },
+      {
+        "title": "Hayao Miyazaki",
+        "text": "Hayao Miyazaki is a renowned Japanese film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq45",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie Amélie?",
+    "gold_answer": "French",
+    "context": [
+      {
+        "title": "Amélie",
+        "text": "Amélie is an acclaimed film directed by Jean-Pierre Jeunet."
+      },
+      {
+        "title": "Jean-Pierre Jeunet",
+        "text": "Jean-Pierre Jeunet is a renowned French film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq46",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie Pan's Labyrinth?",
+    "gold_answer": "Mexican",
+    "context": [
+      {
+        "title": "Pan's Labyrinth",
+        "text": "Pan's Labyrinth is an acclaimed film directed by Guillermo del Toro."
+      },
+      {
+        "title": "Guillermo del Toro",
+        "text": "Guillermo del Toro is a renowned Mexican film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq47",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie The Lord of the Rings?",
+    "gold_answer": "New Zealand",
+    "context": [
+      {
+        "title": "The Lord of the Rings",
+        "text": "The Lord of the Rings is an acclaimed film directed by Peter Jackson."
+      },
+      {
+        "title": "Peter Jackson",
+        "text": "Peter Jackson is a renowned New Zealand film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq48",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie Mad Max: Fury Road?",
+    "gold_answer": "Australian",
+    "context": [
+      {
+        "title": "Mad Max: Fury Road",
+        "text": "Mad Max: Fury Road is an acclaimed film directed by George Miller."
+      },
+      {
+        "title": "George Miller",
+        "text": "George Miller is a renowned Australian film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq49",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie Schindler's List?",
+    "gold_answer": "American",
+    "context": [
+      {
+        "title": "Schindler's List",
+        "text": "Schindler's List is an acclaimed film directed by Steven Spielberg."
+      },
+      {
+        "title": "Steven Spielberg",
+        "text": "Steven Spielberg is a renowned American film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq50",
+    "difficulty": "hard",
+    "question": "What is the nationality of the director of the movie The Godfather?",
+    "gold_answer": "American",
+    "context": [
+      {
+        "title": "The Godfather",
+        "text": "The Godfather is an acclaimed film directed by Francis Ford Coppola."
+      },
+      {
+        "title": "Francis Ford Coppola",
+        "text": "Francis Ford Coppola is a renowned American film director."
+      }
+    ]
+  },
+  {
+    "qid": "hq51",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released Abbey Road?",
+    "gold_answer": "Rock",
+    "context": [
+      {
+        "title": "Abbey Road",
+        "text": "Abbey Road is a seminal album released by The Beatles."
+      },
+      {
+        "title": "The Beatles",
+        "text": "The Beatles was a hugely influential band in the Rock genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq52",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released Nevermind?",
+    "gold_answer": "Grunge",
+    "context": [
+      {
+        "title": "Nevermind",
+        "text": "Nevermind is a seminal album released by Nirvana."
+      },
+      {
+        "title": "Nirvana",
+        "text": "Nirvana was a hugely influential band in the Grunge genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq53",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released The Dark Side of the Moon?",
+    "gold_answer": "Progressive Rock",
+    "context": [
+      {
+        "title": "The Dark Side of the Moon",
+        "text": "The Dark Side of the Moon is a seminal album released by Pink Floyd."
+      },
+      {
+        "title": "Pink Floyd",
+        "text": "Pink Floyd was a hugely influential band in the Progressive Rock genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq54",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released Kind of Blue?",
+    "gold_answer": "Jazz",
+    "context": [
+      {
+        "title": "Kind of Blue",
+        "text": "Kind of Blue is a seminal album released by Miles Davis."
+      },
+      {
+        "title": "Miles Davis",
+        "text": "Miles Davis was a hugely influential band in the Jazz genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq55",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released Thriller?",
+    "gold_answer": "Pop",
+    "context": [
+      {
+        "title": "Thriller",
+        "text": "Thriller is a seminal album released by Michael Jackson."
+      },
+      {
+        "title": "Michael Jackson",
+        "text": "Michael Jackson was a hugely influential band in the Pop genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq56",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released Discovery?",
+    "gold_answer": "Electronic",
+    "context": [
+      {
+        "title": "Discovery",
+        "text": "Discovery is a seminal album released by Daft Punk."
+      },
+      {
+        "title": "Daft Punk",
+        "text": "Daft Punk was a hugely influential band in the Electronic genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq57",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released Master of Puppets?",
+    "gold_answer": "Heavy Metal",
+    "context": [
+      {
+        "title": "Master of Puppets",
+        "text": "Master of Puppets is a seminal album released by Metallica."
+      },
+      {
+        "title": "Metallica",
+        "text": "Metallica was a hugely influential band in the Heavy Metal genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq58",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released Exodus?",
+    "gold_answer": "Reggae",
+    "context": [
+      {
+        "title": "Exodus",
+        "text": "Exodus is a seminal album released by Bob Marley and the Wailers."
+      },
+      {
+        "title": "Bob Marley and the Wailers",
+        "text": "Bob Marley and the Wailers was a hugely influential band in the Reggae genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq59",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released At Folsom Prison?",
+    "gold_answer": "Country",
+    "context": [
+      {
+        "title": "At Folsom Prison",
+        "text": "At Folsom Prison is a seminal album released by Johnny Cash."
+      },
+      {
+        "title": "Johnny Cash",
+        "text": "Johnny Cash was a hugely influential band in the Country genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq60",
+    "difficulty": "medium",
+    "question": "What music genre is associated with the band that released Enter the Wu-Tang (36 Chambers)?",
+    "gold_answer": "Hip Hop",
+    "context": [
+      {
+        "title": "Enter the Wu-Tang (36 Chambers)",
+        "text": "Enter the Wu-Tang (36 Chambers) is a seminal album released by Wu-Tang Clan."
+      },
+      {
+        "title": "Wu-Tang Clan",
+        "text": "Wu-Tang Clan was a hugely influential band in the Hip Hop genre."
+      }
+    ]
+  },
+  {
+    "qid": "hq61",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Microsoft attend?",
+    "gold_answer": "Harvard University",
+    "context": [
+      {
+        "title": "Microsoft",
+        "text": "Microsoft is a major technology company founded by Bill Gates."
+      },
+      {
+        "title": "Bill Gates",
+        "text": "Bill Gates is a technology entrepreneur who attended Harvard University."
+      }
+    ]
+  },
+  {
+    "qid": "hq62",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Facebook attend?",
+    "gold_answer": "Harvard University",
+    "context": [
+      {
+        "title": "Facebook",
+        "text": "Facebook is a major technology company founded by Mark Zuckerberg."
+      },
+      {
+        "title": "Mark Zuckerberg",
+        "text": "Mark Zuckerberg is a technology entrepreneur who attended Harvard University."
+      }
+    ]
+  },
+  {
+    "qid": "hq63",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Google attend?",
+    "gold_answer": "Stanford University",
+    "context": [
+      {
+        "title": "Google",
+        "text": "Google is a major technology company founded by Larry Page."
+      },
+      {
+        "title": "Larry Page",
+        "text": "Larry Page is a technology entrepreneur who attended Stanford University."
+      }
+    ]
+  },
+  {
+    "qid": "hq64",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Tesla attend?",
+    "gold_answer": "University of Pennsylvania",
+    "context": [
+      {
+        "title": "Tesla",
+        "text": "Tesla is a major technology company founded by Elon Musk."
+      },
+      {
+        "title": "Elon Musk",
+        "text": "Elon Musk is a technology entrepreneur who attended University of Pennsylvania."
+      }
+    ]
+  },
+  {
+    "qid": "hq65",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Amazon attend?",
+    "gold_answer": "Princeton University",
+    "context": [
+      {
+        "title": "Amazon",
+        "text": "Amazon is a major technology company founded by Jeff Bezos."
+      },
+      {
+        "title": "Jeff Bezos",
+        "text": "Jeff Bezos is a technology entrepreneur who attended Princeton University."
+      }
+    ]
+  },
+  {
+    "qid": "hq66",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Apple attend?",
+    "gold_answer": "Reed College",
+    "context": [
+      {
+        "title": "Apple",
+        "text": "Apple is a major technology company founded by Steve Jobs."
+      },
+      {
+        "title": "Steve Jobs",
+        "text": "Steve Jobs is a technology entrepreneur who attended Reed College."
+      }
+    ]
+  },
+  {
+    "qid": "hq67",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Dell attend?",
+    "gold_answer": "University of Texas at Austin",
+    "context": [
+      {
+        "title": "Dell",
+        "text": "Dell is a major technology company founded by Michael Dell."
+      },
+      {
+        "title": "Michael Dell",
+        "text": "Michael Dell is a technology entrepreneur who attended University of Texas at Austin."
+      }
+    ]
+  },
+  {
+    "qid": "hq68",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Oracle attend?",
+    "gold_answer": "University of Chicago",
+    "context": [
+      {
+        "title": "Oracle",
+        "text": "Oracle is a major technology company founded by Larry Ellison."
+      },
+      {
+        "title": "Larry Ellison",
+        "text": "Larry Ellison is a technology entrepreneur who attended University of Chicago."
+      }
+    ]
+  },
+  {
+    "qid": "hq69",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Snapchat attend?",
+    "gold_answer": "Stanford University",
+    "context": [
+      {
+        "title": "Snapchat",
+        "text": "Snapchat is a major technology company founded by Evan Spiegel."
+      },
+      {
+        "title": "Evan Spiegel",
+        "text": "Evan Spiegel is a technology entrepreneur who attended Stanford University."
+      }
+    ]
+  },
+  {
+    "qid": "hq70",
+    "difficulty": "hard",
+    "question": "Which university did the founder of Reddit attend?",
+    "gold_answer": "University of Virginia",
+    "context": [
+      {
+        "title": "Reddit",
+        "text": "Reddit is a major technology company founded by Steve Huffman."
+      },
+      {
+        "title": "Steve Huffman",
+        "text": "Steve Huffman is a technology entrepreneur who attended University of Virginia."
+      }
+    ]
+  },
+  {
+    "qid": "hq71",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Eiffel Tower is located?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a famous landmark situated in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is a historic city crossed by the Seine."
+      }
+    ]
+  },
+  {
+    "qid": "hq72",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Tower of London is located?",
+    "gold_answer": "Thames",
+    "context": [
+      {
+        "title": "Tower of London",
+        "text": "The Tower of London is a famous landmark situated in London."
+      },
+      {
+        "title": "London",
+        "text": "London is a historic city crossed by the Thames."
+      }
+    ]
+  },
+  {
+    "qid": "hq73",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Statue of Liberty is located?",
+    "gold_answer": "Hudson River",
+    "context": [
+      {
+        "title": "Statue of Liberty",
+        "text": "The Statue of Liberty is a famous landmark situated in New York City."
+      },
+      {
+        "title": "New York City",
+        "text": "New York City is a historic city crossed by the Hudson River."
+      }
+    ]
+  },
+  {
+    "qid": "hq74",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Colosseum is located?",
+    "gold_answer": "Tiber",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is a famous landmark situated in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is a historic city crossed by the Tiber."
+      }
+    ]
+  },
+  {
+    "qid": "hq75",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Kremlin is located?",
+    "gold_answer": "Moskva River",
+    "context": [
+      {
+        "title": "Kremlin",
+        "text": "The Kremlin is a famous landmark situated in Moscow."
+      },
+      {
+        "title": "Moscow",
+        "text": "Moscow is a historic city crossed by the Moskva River."
+      }
+    ]
+  },
+  {
+    "qid": "hq76",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Bund is located?",
+    "gold_answer": "Huangpu River",
+    "context": [
+      {
+        "title": "Bund",
+        "text": "The Bund is a famous landmark situated in Shanghai."
+      },
+      {
+        "title": "Shanghai",
+        "text": "Shanghai is a historic city crossed by the Huangpu River."
+      }
+    ]
+  },
+  {
+    "qid": "hq77",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Prague Castle is located?",
+    "gold_answer": "Vltava",
+    "context": [
+      {
+        "title": "Prague Castle",
+        "text": "The Prague Castle is a famous landmark situated in Prague."
+      },
+      {
+        "title": "Prague",
+        "text": "Prague is a historic city crossed by the Vltava."
+      }
+    ]
+  },
+  {
+    "qid": "hq78",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Schönbrunn Palace is located?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Schönbrunn Palace",
+        "text": "The Schönbrunn Palace is a famous landmark situated in Vienna."
+      },
+      {
+        "title": "Vienna",
+        "text": "Vienna is a historic city crossed by the Danube."
+      }
+    ]
+  },
+  {
+    "qid": "hq79",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Parliament Hill is located?",
+    "gold_answer": "Ottawa River",
+    "context": [
+      {
+        "title": "Parliament Hill",
+        "text": "The Parliament Hill is a famous landmark situated in Ottawa."
+      },
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is a historic city crossed by the Ottawa River."
+      }
+    ]
+  },
+  {
+    "qid": "hq80",
+    "difficulty": "hard",
+    "question": "What river flows through the city where the Giza Necropolis is located?",
+    "gold_answer": "Nile",
+    "context": [
+      {
+        "title": "Giza Necropolis",
+        "text": "The Giza Necropolis is a famous landmark situated in Cairo."
+      },
+      {
+        "title": "Cairo",
+        "text": "Cairo is a historic city crossed by the Nile."
+      }
+    ]
+  },
+  {
+    "qid": "hq81",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Lion belong to?",
+    "gold_answer": "Carnivora",
+    "context": [
+      {
+        "title": "Lion",
+        "text": "The Lion is a well-known species belonging to the Felidae family."
+      },
+      {
+        "title": "Felidae",
+        "text": "The Felidae family is a biological classification within the order Carnivora."
+      }
+    ]
+  },
+  {
+    "qid": "hq82",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Dog belong to?",
+    "gold_answer": "Carnivora",
+    "context": [
+      {
+        "title": "Dog",
+        "text": "The Dog is a well-known species belonging to the Canidae family."
+      },
+      {
+        "title": "Canidae",
+        "text": "The Canidae family is a biological classification within the order Carnivora."
+      }
+    ]
+  },
+  {
+    "qid": "hq83",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Human belong to?",
+    "gold_answer": "Primates",
+    "context": [
+      {
+        "title": "Human",
+        "text": "The Human is a well-known species belonging to the Hominidae family."
+      },
+      {
+        "title": "Hominidae",
+        "text": "The Hominidae family is a biological classification within the order Primates."
+      }
+    ]
+  },
+  {
+    "qid": "hq84",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Chimpanzee belong to?",
+    "gold_answer": "Primates",
+    "context": [
+      {
+        "title": "Chimpanzee",
+        "text": "The Chimpanzee is a well-known species belonging to the Hominidae family."
+      },
+      {
+        "title": "Hominidae",
+        "text": "The Hominidae family is a biological classification within the order Primates."
+      }
+    ]
+  },
+  {
+    "qid": "hq85",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Cow belong to?",
+    "gold_answer": "Artiodactyla",
+    "context": [
+      {
+        "title": "Cow",
+        "text": "The Cow is a well-known species belonging to the Bovidae family."
+      },
+      {
+        "title": "Bovidae",
+        "text": "The Bovidae family is a biological classification within the order Artiodactyla."
+      }
+    ]
+  },
+  {
+    "qid": "hq86",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Horse belong to?",
+    "gold_answer": "Perissodactyla",
+    "context": [
+      {
+        "title": "Horse",
+        "text": "The Horse is a well-known species belonging to the Equidae family."
+      },
+      {
+        "title": "Equidae",
+        "text": "The Equidae family is a biological classification within the order Perissodactyla."
+      }
+    ]
+  },
+  {
+    "qid": "hq87",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Blue whale belong to?",
+    "gold_answer": "Artiodactyla",
+    "context": [
+      {
+        "title": "Blue whale",
+        "text": "The Blue whale is a well-known species belonging to the Balaenopteridae family."
+      },
+      {
+        "title": "Balaenopteridae",
+        "text": "The Balaenopteridae family is a biological classification within the order Artiodactyla."
+      }
+    ]
+  },
+  {
+    "qid": "hq88",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Bald eagle belong to?",
+    "gold_answer": "Accipitriformes",
+    "context": [
+      {
+        "title": "Bald eagle",
+        "text": "The Bald eagle is a well-known species belonging to the Accipitridae family."
+      },
+      {
+        "title": "Accipitridae",
+        "text": "The Accipitridae family is a biological classification within the order Accipitriformes."
+      }
+    ]
+  },
+  {
+    "qid": "hq89",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Great white shark belong to?",
+    "gold_answer": "Lamniformes",
+    "context": [
+      {
+        "title": "Great white shark",
+        "text": "The Great white shark is a well-known species belonging to the Lamnidae family."
+      },
+      {
+        "title": "Lamnidae",
+        "text": "The Lamnidae family is a biological classification within the order Lamniformes."
+      }
+    ]
+  },
+  {
+    "qid": "hq90",
+    "difficulty": "medium",
+    "question": "Which order does the family of the Emperor penguin belong to?",
+    "gold_answer": "Sphenisciformes",
+    "context": [
+      {
+        "title": "Emperor penguin",
+        "text": "The Emperor penguin is a well-known species belonging to the Spheniscidae family."
+      },
+      {
+        "title": "Spheniscidae",
+        "text": "The Spheniscidae family is a biological classification within the order Sphenisciformes."
+      }
+    ]
+  },
+  {
+    "qid": "hq91",
+    "difficulty": "easy",
+    "question": "In which century did the French Revolution take place?",
+    "gold_answer": "18th century",
+    "context": [
+      {
+        "title": "French Revolution",
+        "text": "The French Revolution was a significant historical event that occurred in 1789."
+      },
+      {
+        "title": "1789",
+        "text": "The year 1789 is part of the 18th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq92",
+    "difficulty": "easy",
+    "question": "In which century did the Sinking of the Titanic take place?",
+    "gold_answer": "20th century",
+    "context": [
+      {
+        "title": "Sinking of the Titanic",
+        "text": "The Sinking of the Titanic was a significant historical event that occurred in 1912."
+      },
+      {
+        "title": "1912",
+        "text": "The year 1912 is part of the 20th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq93",
+    "difficulty": "easy",
+    "question": "In which century did the Moon Landing take place?",
+    "gold_answer": "20th century",
+    "context": [
+      {
+        "title": "Moon Landing",
+        "text": "The Moon Landing was a significant historical event that occurred in 1969."
+      },
+      {
+        "title": "1969",
+        "text": "The year 1969 is part of the 20th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq94",
+    "difficulty": "easy",
+    "question": "In which century did the Fall of the Western Roman Empire take place?",
+    "gold_answer": "5th century",
+    "context": [
+      {
+        "title": "Fall of the Western Roman Empire",
+        "text": "The Fall of the Western Roman Empire was a significant historical event that occurred in 476."
+      },
+      {
+        "title": "476",
+        "text": "The year 476 is part of the 5th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq95",
+    "difficulty": "easy",
+    "question": "In which century did the Signing of the Magna Carta take place?",
+    "gold_answer": "13th century",
+    "context": [
+      {
+        "title": "Signing of the Magna Carta",
+        "text": "The Signing of the Magna Carta was a significant historical event that occurred in 1215."
+      },
+      {
+        "title": "1215",
+        "text": "The year 1215 is part of the 13th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq96",
+    "difficulty": "easy",
+    "question": "In which century did the Discovery of America by Columbus take place?",
+    "gold_answer": "15th century",
+    "context": [
+      {
+        "title": "Discovery of America by Columbus",
+        "text": "The Discovery of America by Columbus was a significant historical event that occurred in 1492."
+      },
+      {
+        "title": "1492",
+        "text": "The year 1492 is part of the 15th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq97",
+    "difficulty": "easy",
+    "question": "In which century did the Invention of the telephone take place?",
+    "gold_answer": "19th century",
+    "context": [
+      {
+        "title": "Invention of the telephone",
+        "text": "The Invention of the telephone was a significant historical event that occurred in 1876."
+      },
+      {
+        "title": "1876",
+        "text": "The year 1876 is part of the 19th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq98",
+    "difficulty": "easy",
+    "question": "In which century did the End of World War II take place?",
+    "gold_answer": "20th century",
+    "context": [
+      {
+        "title": "End of World War II",
+        "text": "The End of World War II was a significant historical event that occurred in 1945."
+      },
+      {
+        "title": "1945",
+        "text": "The year 1945 is part of the 20th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq99",
+    "difficulty": "easy",
+    "question": "In which century did the First flight of the Wright Brothers take place?",
+    "gold_answer": "20th century",
+    "context": [
+      {
+        "title": "First flight of the Wright Brothers",
+        "text": "The First flight of the Wright Brothers was a significant historical event that occurred in 1903."
+      },
+      {
+        "title": "1903",
+        "text": "The year 1903 is part of the 20th century."
+      }
+    ]
+  },
+  {
+    "qid": "hq100",
+    "difficulty": "easy",
+    "question": "In which century did the Assassination of Julius Caesar take place?",
+    "gold_answer": "1st century BC",
+    "context": [
+      {
+        "title": "Assassination of Julius Caesar",
+        "text": "The Assassination of Julius Caesar was a significant historical event that occurred in 44 BC."
+      },
+      {
+        "title": "44 BC",
+        "text": "The year 44 BC is part of the 1st century BC."
+      }
+    ]
+  }
+]
